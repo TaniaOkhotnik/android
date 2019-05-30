@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Places App</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="login_detail">login_detail</string>
+    <string name="textView">TextView</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_register_short">Registration</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="enter_comment">"Please enter your comment"</string>
+    <string name="enter_comment_button">"Add comment"</string>
+</resources>
